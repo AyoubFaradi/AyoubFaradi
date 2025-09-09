@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Agile-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OOP-0175C2?style=flat&logo=oop&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OOP-0175C2?style=flat&logo=reactivex&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Agile-DD0031?style=flat&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agile-DD0031?style=flat&logo=files&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cloud-3C3C3C?style=flat&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -38,13 +38,23 @@
 ### 📫 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayoub-faradi/">
+  <a href="https://www.linkedin.com/in/ayoub-faradi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayoub.faradi@example.com">
+  <a href="mailto:ayoubfaradi05@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/AyoubFaradi" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ayoubfaradifolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+212612345678" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -60,7 +70,14 @@
   <a href="https://scratch.mit.edu/projects/475535107/">
     <img src="https://img.shields.io/badge/-Jouer%20à%20Among%20Us-FF4500?style=for-the-badge" />
   </a>
+  <a href="https://www.ea.com/games/fifa/fifa-25" target="_blank">
+    <img src="https://img.shields.io/badge/-Jouer%20à%20FIFA%2025-007A33?style=for-the-badge&logo=ea&logoColor=white" />
+  </a>
+  <a href="https://www.rockstargames.com/V/" target="_blank">
+    <img src="https://img.shields.io/badge/-Jouer%20à%20GTA%205-FF0000?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
