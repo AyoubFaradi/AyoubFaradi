@@ -1,70 +1,70 @@
-<h1 align="center">Hi 👋, I'm [Ton Nom]</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
----
+###
 
-### 👨‍💻 About Me  
-- 🌍 Based in: **[Ville, Pays]**  
-- 🔭 I’m currently working on: **[Projet actuel]**  
-- 🌱 I’m currently learning: **[Technologies / frameworks]**  
-- 💬 Ask me about: **[Domaines d'expertise]**  
-- 📫 How to reach me: **[Ton Email]**  
-- 🌐 Portfolio: [Lien vers ton site/portfolio]  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
----
+###
 
-### 📂 My Portfolio & CV
-- 🖥️ [My Portfolio](https://tonportfolio.com)  
-- 📄 [Check My CV](https://toncv.com)  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&"  />
+</div>
 
----
+###
 
-### 🤝 Connect with Me
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
 <p align="left">
-<a href="https://linkedin.com/in/tonlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/tontwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-<a href="mailto:tonemail@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
+I'm a Full Stack developer with a diploma in Full Stack Development.<br><br>
+- 🔭 I’m currently working on personal projects and improving my coding skills<br>
+- 📚 I’m learning advanced web development, cloud technologies, and DevOps<br>
+- ⚡ In my free time, I enjoy coding challenges, exploring new frameworks, and learning about AI
 </p>
 
----
+###
 
-### 🛠️ Languages & Tools
-<p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</p>
+<h3 align="left">🛠 Language and Tools</h3>
 
----
+###
 
-### 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=TonUsername&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsername&layout=compact&theme=radical" alt="langs"/>
-</p>
+<h3 align="left">🔥 My Stats :</h3>
 
----
+###
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonUsername&theme=radical" alt="streak"/>
-</p>
-
----
-
-### ✨ Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TonUsername&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
