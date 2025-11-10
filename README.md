@@ -103,7 +103,7 @@
 ---
 
 ## 🔗 Liens utiles
-- 🌐 [Portfolio](https://AyoubFaradiPortfolio.com)  
+- 🌐 [Portfolio](https://ayoub-faradi-portfolio.vercel.app/)  
 - 📁 [Mes projets GitHub](https://github.com/AyoubFaradi?tab=repositories)
 
 ---
